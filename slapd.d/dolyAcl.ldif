@@ -1,0 +1,4 @@
+dn: olcDatabase={1}mdb,cn=config
+changeType: modify
+add: olcAccess
+olcAccess: {7}to * by dn="cn='Jan Doležal',ou=People,dc=ekcr,dc=cz" manage by * break

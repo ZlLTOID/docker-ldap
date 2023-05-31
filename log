@@ -1,0 +1,957 @@
+2023-01-18 08:17:53: LDAP Account Manager (cc1mju9hc85pmoavt4k4dfutfc - 127.0.0.1 - cn=admin,dc=example,dc=com) - ERROR: User cn=admin,dc=example,dc=com (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-01-18 08:17:53: LDAP Account Manager (cc1mju9hc85pmoavt4k4dfutfc - 127.0.0.1 - cn=admin,dc=example,dc=com) - DEBUG: Display login page
+2023-01-18 08:52:08: LDAP Account Manager (of350sa7ev24ol1t5k4s7s3506 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 08:52:13: LDAP Account Manager (i2f98dr27j3qcer26vu2bkr8ip - 127.0.0.1 - cn=admin,dc=example,dc=com) - ERROR: User cn=admin,dc=example,dc=com (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-01-18 08:52:13: LDAP Account Manager (i2f98dr27j3qcer26vu2bkr8ip - 127.0.0.1 - cn=admin,dc=example,dc=com) - DEBUG: Display login page
+2023-01-18 08:52:15: LDAP Account Manager (6g09evlbj2t1trb65gop0gn030 - 127.0.0.1 - cn=admin,dc=example,dc=com) - ERROR: User cn=admin,dc=example,dc=com (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-01-18 08:52:15: LDAP Account Manager (6g09evlbj2t1trb65gop0gn030 - 127.0.0.1 - cn=admin,dc=example,dc=com) - DEBUG: Display login page
+2023-01-18 08:52:16: LDAP Account Manager (2rk2n3k1rpjtn1sgejh42rja9h - 127.0.0.1 - cn=admin,dc=example,dc=com) - ERROR: User cn=admin,dc=example,dc=com (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-01-18 08:52:16: LDAP Account Manager (2rk2n3k1rpjtn1sgejh42rja9h - 127.0.0.1 - cn=admin,dc=example,dc=com) - DEBUG: Display login page
+2023-01-18 08:52:19: LDAP Account Manager (cuoqbq20o65sk6sfk1jpugut8c - 127.0.0.1 - cn=admin,dc=example,dc=com) - ERROR: User cn=admin,dc=example,dc=com (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-01-18 08:52:19: LDAP Account Manager (cuoqbq20o65sk6sfk1jpugut8c - 127.0.0.1 - cn=admin,dc=example,dc=com) - DEBUG: Display login page
+2023-01-18 09:29:35: LDAP Account Manager (niv2rl6jv1063pc38afndrmp3q - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 09:29:39: LDAP Account Manager (0mjmnlm0pfiabb8s9ib67npt4o - 127.0.0.1 - cn=admin,dc=example,dc=com) - ERROR: User cn=admin,dc=example,dc=com (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-01-18 09:29:39: LDAP Account Manager (0mjmnlm0pfiabb8s9ib67npt4o - 127.0.0.1 - cn=admin,dc=example,dc=com) - DEBUG: Display login page
+2023-01-18 09:29:43: LDAP Account Manager (9mlu9qa1j688u4oppie7e9j1l7 - 127.0.0.1 - cn=admin,dc=example,dc=com) - ERROR: User cn=admin,dc=example,dc=com (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-01-18 09:29:43: LDAP Account Manager (9mlu9qa1j688u4oppie7e9j1l7 - 127.0.0.1 - cn=admin,dc=example,dc=com) - DEBUG: Display login page
+2023-01-18 09:29:46: LDAP Account Manager (j8b2iv40743369iknn2m3r1rcf - 127.0.0.1 - cn=admin,dc=example,dc=com) - ERROR: User cn=admin,dc=example,dc=com (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-01-18 09:29:46: LDAP Account Manager (j8b2iv40743369iknn2m3r1rcf - 127.0.0.1 - cn=admin,dc=example,dc=com) - DEBUG: Display login page
+2023-01-18 09:35:06: LDAP Account Manager (ajhej8v3cdmfbdpcr9i2l7tb8n - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 09:35:10: LDAP Account Manager (18jgokmriifgrh0tajo5teq1hm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 09:35:10: LDAP Account Manager (18jgokmriifgrh0tajo5teq1hm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 09:43:52: LDAP Account Manager (18jgokmriifgrh0tajo5teq1hm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type group
+2023-01-18 09:43:52: LDAP Account Manager (18jgokmriifgrh0tajo5teq1hm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Found 0 Unix users.
+2023-01-18 09:44:12: LDAP Account Manager (18jgokmriifgrh0tajo5teq1hm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit page pre/postModify attributes: Array
+(
+    [objectClass] => Array
+        (
+            [0] => posixGroup
+        )
+
+    [gidNumber] => Array
+        (
+            [0] => 10000
+        )
+
+    [cn] => Array
+        (
+            [0] => executors
+        )
+
+    [NEW.objectClass] => Array
+        (
+            [0] => posixGroup
+        )
+
+    [NEW.gidNumber] => Array
+        (
+            [0] => 10000
+        )
+
+    [NEW.cn] => Array
+        (
+            [0] => executors
+        )
+
+    [dn] => Array
+        (
+            [0] => cn=executors,ou=group,dc=ekcr,dc=com
+        )
+
+)
+
+2023-01-18 09:44:13: LDAP Account Manager (18jgokmriifgrh0tajo5teq1hm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: Created DN: cn=executors,ou=group,dc=ekcr,dc=com
+2023-01-18 10:16:01: LDAP Account Manager (18jgokmriifgrh0tajo5teq1hm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-18 10:16:01: LDAP Account Manager (jn4tcm3ebvj7h3lvtv1vvampev - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 10:16:06: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 10:16:06: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 10:16:12: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-18 10:18:27: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit page pre/postModify attributes: Array
+(
+    [objectClass] => Array
+        (
+            [0] => posixAccount
+            [1] => inetOrgPerson
+            [2] => organizationalPerson
+            [3] => person
+        )
+
+    [loginShell] => Array
+        (
+            [0] => /bin/bash
+        )
+
+    [homeDirectory] => Array
+        (
+            [0] => /home/jbemov
+        )
+
+    [uid] => Array
+        (
+            [0] => jbemová
+        )
+
+    [cn] => Array
+        (
+            [0] => Jan Bémová
+        )
+
+    [uidNumber] => Array
+        (
+            [0] => 10000
+        )
+
+    [gidNumber] => Array
+        (
+            [0] => 10000
+        )
+
+    [description] => Array
+        (
+            [0] => Exekutorka
+        )
+
+    [sn] => Array
+        (
+            [0] => Bémová
+        )
+
+    [givenName] => Array
+        (
+            [0] => Jan
+        )
+
+    [initials] => Array
+        (
+            [0] => J. B.
+        )
+
+    [NEW.objectClass] => Array
+        (
+            [0] => posixAccount
+            [1] => inetOrgPerson
+            [2] => organizationalPerson
+            [3] => person
+        )
+
+    [NEW.loginShell] => Array
+        (
+            [0] => /bin/bash
+        )
+
+    [NEW.homeDirectory] => Array
+        (
+            [0] => /home/jbemov
+        )
+
+    [NEW.uid] => Array
+        (
+            [0] => jbemová
+        )
+
+    [NEW.cn] => Array
+        (
+            [0] => Jan Bémová
+        )
+
+    [NEW.uidNumber] => Array
+        (
+            [0] => 10000
+        )
+
+    [NEW.gidNumber] => Array
+        (
+            [0] => 10000
+        )
+
+    [NEW.description] => Array
+        (
+            [0] => Exekutorka
+        )
+
+    [NEW.sn] => Array
+        (
+            [0] => Bémová
+        )
+
+    [NEW.givenName] => Array
+        (
+            [0] => Jan
+        )
+
+    [NEW.initials] => Array
+        (
+            [0] => J. B.
+        )
+
+    [INFO.userPasswordClearText] => Array
+        (
+            [0] => 
+        )
+
+    [dn] => Array
+        (
+            [0] => cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+        )
+
+)
+
+2023-01-18 10:18:27: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: Created DN: cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-18 10:19:27: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-18 10:19:35: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type group
+2023-01-18 10:19:35: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Found 1 Unix users.
+2023-01-18 10:19:44: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit page pre/postModify attributes: Array
+(
+    [objectClass] => Array
+        (
+            [0] => posixGroup
+        )
+
+    [gidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [cn] => Array
+        (
+            [0] => admins
+        )
+
+    [NEW.objectClass] => Array
+        (
+            [0] => posixGroup
+        )
+
+    [NEW.gidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [NEW.cn] => Array
+        (
+            [0] => admins
+        )
+
+    [dn] => Array
+        (
+            [0] => cn=admins,ou=group,dc=ekcr,dc=com
+        )
+
+)
+
+2023-01-18 10:19:44: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: Created DN: cn=admins,ou=group,dc=ekcr,dc=com
+2023-01-18 10:19:49: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=executors,ou=group,dc=ekcr,dc=com
+2023-01-18 10:19:49: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Found 1 Unix users.
+2023-01-18 10:20:02: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=admins,ou=group,dc=ekcr,dc=com
+2023-01-18 10:20:02: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Found 1 Unix users.
+2023-01-18 10:20:38: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-18 10:21:38: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit page pre/postModify attributes: Array
+(
+    [objectClass] => Array
+        (
+            [0] => posixAccount
+            [1] => inetOrgPerson
+            [2] => organizationalPerson
+            [3] => person
+        )
+
+    [loginShell] => Array
+        (
+            [0] => /bin/bash
+        )
+
+    [homeDirectory] => Array
+        (
+            [0] => /home/pnovotn
+        )
+
+    [uid] => Array
+        (
+            [0] => pnovotný
+        )
+
+    [cn] => Array
+        (
+            [0] => Patrik Novotný
+        )
+
+    [userPassword] => Array
+        (
+            [0] => {SSHA}aNqTzinrY29awqTvqCMf8wTCHnQwT3Js
+        )
+
+    [uidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [gidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [sn] => Array
+        (
+            [0] => Novotný
+        )
+
+    [givenName] => Array
+        (
+            [0] => Patrik
+        )
+
+    [initials] => Array
+        (
+            [0] => P. N.
+        )
+
+    [NEW.objectClass] => Array
+        (
+            [0] => posixAccount
+            [1] => inetOrgPerson
+            [2] => organizationalPerson
+            [3] => person
+        )
+
+    [NEW.loginShell] => Array
+        (
+            [0] => /bin/bash
+        )
+
+    [NEW.homeDirectory] => Array
+        (
+            [0] => /home/pnovotn
+        )
+
+    [NEW.uid] => Array
+        (
+            [0] => pnovotný
+        )
+
+    [NEW.cn] => Array
+        (
+            [0] => Patrik Novotný
+        )
+
+    [NEW.userPassword] => Array
+        (
+            [0] => {SSHA}aNqTzinrY29awqTvqCMf8wTCHnQwT3Js
+        )
+
+    [NEW.uidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [NEW.gidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [NEW.sn] => Array
+        (
+            [0] => Novotný
+        )
+
+    [NEW.givenName] => Array
+        (
+            [0] => Patrik
+        )
+
+    [NEW.initials] => Array
+        (
+            [0] => P. N.
+        )
+
+    [INFO.userPasswordClearText] => Array
+        (
+            [0] => HAL9000
+        )
+
+    [dn] => Array
+        (
+            [0] => cn=Patrik Novotný,ou=People,dc=ekcr,dc=com
+        )
+
+)
+
+2023-01-18 10:21:38: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: Created DN: cn=Patrik Novotný,ou=People,dc=ekcr,dc=com
+2023-01-18 10:21:42: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-18 10:22:08: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-18 10:22:19: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-18 10:22:43: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-18 10:24:27: LDAP Account Manager (gqsd2aeiorht62e1l59hriiomu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User logged off.
+2023-01-18 10:24:27: LDAP Account Manager (mfvsa9v5p6as8b604mr6qqjtbr - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 10:26:01: LDAP Account Manager (gcn2ml18m1fe4t1ofmqar0g2en - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 10:30:10: LDAP Account Manager (ioelmbevpvcpj3gca5muu14f70 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 10:30:13: LDAP Account Manager (ba5hkepq4cum785ep3cdnob6gd - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 10:30:13: LDAP Account Manager (ba5hkepq4cum785ep3cdnob6gd - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 10:33:55: LDAP Account Manager (6647ur5lmqa2m3gmh7ogd9qrav - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 10:54:54: LDAP Account Manager (4eq90rifumm6hq0m2te0rddcj0 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 10:54:57: LDAP Account Manager (kkuo0gtpmqok60f07b3pfpaj7d - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 10:54:57: LDAP Account Manager (kkuo0gtpmqok60f07b3pfpaj7d - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 10:55:00: LDAP Account Manager (kkuo0gtpmqok60f07b3pfpaj7d - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Patrik Novotný,ou=People,dc=ekcr,dc=com
+2023-01-18 11:02:07: LDAP Account Manager (kkuo0gtpmqok60f07b3pfpaj7d - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Patrik Novotný,ou=People,dc=ekcr,dc=com
+2023-01-18 11:02:22: LDAP Account Manager (kkuo0gtpmqok60f07b3pfpaj7d - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Patrik Novotný,ou=People,dc=ekcr,dc=com
+2023-01-18 11:40:50: LDAP Account Manager (kkuo0gtpmqok60f07b3pfpaj7d - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-18 11:40:50: LDAP Account Manager (24clmlf4pp4h1ekvb14kjlqpah - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 11:40:54: LDAP Account Manager (75b2l6dpnu9j0kht0o9eoe114f - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 11:40:54: LDAP Account Manager (75b2l6dpnu9j0kht0o9eoe114f - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 13:20:02: LDAP Account Manager (mm0koic1u2s2c460pvqk4gul93 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 13:20:13: LDAP Account Manager (r1tdfq1rvm67ig827t3jmisfof - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 13:20:13: LDAP Account Manager (r1tdfq1rvm67ig827t3jmisfof - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 13:20:28: LDAP Account Manager (r1tdfq1rvm67ig827t3jmisfof - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Getting tree nodes for dc=ekcr,dc=org
+2023-01-18 13:21:47: LDAP Account Manager (r1tdfq1rvm67ig827t3jmisfof - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User logged off.
+2023-01-18 13:21:47: LDAP Account Manager (1lujic1bq10atku15boejo006a - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 13:22:04: LDAP Account Manager (ee1uo87dbb3t0rodd4it6hiep7 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 13:54:36: LDAP Account Manager (n745cplbg3aek66aqvafqsr6ae - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 13:54:36: LDAP Account Manager (n745cplbg3aek66aqvafqsr6ae - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 14:24:39: LDAP Account Manager (n745cplbg3aek66aqvafqsr6ae - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-18 14:24:39: LDAP Account Manager (sh4l878vu157bhc4dknaljmb7j - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 14:24:42: LDAP Account Manager (jeiqi7b5kvmhpe854okpusn2d1 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 14:24:42: LDAP Account Manager (jeiqi7b5kvmhpe854okpusn2d1 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 14:36:30: LDAP Account Manager (jeiqi7b5kvmhpe854okpusn2d1 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-18 14:55:10: LDAP Account Manager (jeiqi7b5kvmhpe854okpusn2d1 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-18 14:56:07: LDAP Account Manager (etbk816ive2koth5uoakd74lq0 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 14:56:13: LDAP Account Manager (vkt8kt0bfk5r7rkgubvpv3up9j - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 14:56:13: LDAP Account Manager (vkt8kt0bfk5r7rkgubvpv3up9j - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 15:03:33: LDAP Account Manager (vkt8kt0bfk5r7rkgubvpv3up9j - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Patrik Novotný,ou=People,dc=ekcr,dc=com
+2023-01-18 18:18:15: LDAP Account Manager (vkt8kt0bfk5r7rkgubvpv3up9j - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-18 18:18:15: LDAP Account Manager (a3rpe6ui6h9nllgdnhdbg2oupr - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 18:29:13: LDAP Account Manager (95dtpacpsedmd7de9abdi32gni - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 18:29:13: LDAP Account Manager (95dtpacpsedmd7de9abdi32gni - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 19:00:52: LDAP Account Manager (95dtpacpsedmd7de9abdi32gni - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-18 19:00:52: LDAP Account Manager (vgnjd1dm2gvjab0tu3fiqho2u8 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 19:00:55: LDAP Account Manager (6efeceu5oo3l20muqjum3egthr - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 19:00:55: LDAP Account Manager (6efeceu5oo3l20muqjum3egthr - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 19:00:56: LDAP Account Manager (6efeceu5oo3l20muqjum3egthr - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-18 19:01:44: LDAP Account Manager (6efeceu5oo3l20muqjum3egthr - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-18 19:01:48: LDAP Account Manager (6efeceu5oo3l20muqjum3egthr - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-18 19:02:06: LDAP Account Manager (6efeceu5oo3l20muqjum3egthr - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit page pre/postModify attributes: Array
+(
+    [objectClass] => Array
+        (
+            [0] => posixAccount
+            [1] => inetOrgPerson
+            [2] => organizationalPerson
+            [3] => person
+        )
+
+    [loginShell] => Array
+        (
+            [0] => /bin/bash
+        )
+
+    [homeDirectory] => Array
+        (
+            [0] => /home/jprdel
+        )
+
+    [uid] => Array
+        (
+            [0] => jprdel
+        )
+
+    [cn] => Array
+        (
+            [0] => Jarmil Prdel
+        )
+
+    [uidNumber] => Array
+        (
+            [0] => 10002
+        )
+
+    [gidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [sn] => Array
+        (
+            [0] => Prdel
+        )
+
+    [givenName] => Array
+        (
+            [0] => Jarmil
+        )
+
+    [initials] => Array
+        (
+            [0] => J. P.
+        )
+
+    [NEW.objectClass] => Array
+        (
+            [0] => posixAccount
+            [1] => inetOrgPerson
+            [2] => organizationalPerson
+            [3] => person
+        )
+
+    [NEW.loginShell] => Array
+        (
+            [0] => /bin/bash
+        )
+
+    [NEW.homeDirectory] => Array
+        (
+            [0] => /home/jprdel
+        )
+
+    [NEW.uid] => Array
+        (
+            [0] => jprdel
+        )
+
+    [NEW.cn] => Array
+        (
+            [0] => Jarmil Prdel
+        )
+
+    [NEW.uidNumber] => Array
+        (
+            [0] => 10002
+        )
+
+    [NEW.gidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [NEW.sn] => Array
+        (
+            [0] => Prdel
+        )
+
+    [NEW.givenName] => Array
+        (
+            [0] => Jarmil
+        )
+
+    [NEW.initials] => Array
+        (
+            [0] => J. P.
+        )
+
+    [INFO.userPasswordClearText] => Array
+        (
+            [0] => 
+        )
+
+    [dn] => Array
+        (
+            [0] => cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+        )
+
+)
+
+2023-01-18 19:02:06: LDAP Account Manager (6efeceu5oo3l20muqjum3egthr - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: Created DN: cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+2023-01-18 19:28:32: LDAP Account Manager (6efeceu5oo3l20muqjum3egthr - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User logged off.
+2023-01-18 19:28:32: LDAP Account Manager (ujsons6kv3ir9i2fk8q9il1798 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 19:32:51: LDAP Account Manager (ao26f2t7jtl90pu9j54fu77ic4 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-18 19:32:54: LDAP Account Manager (ul44p3g2kkusn53vaqhj4950fe - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-18 19:32:54: LDAP Account Manager (ul44p3g2kkusn53vaqhj4950fe - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-18 19:55:26: LDAP Account Manager (ul44p3g2kkusn53vaqhj4950fe - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-19 09:35:22: LDAP Account Manager (0drg6gmd1l43e7314qjmj6snqu - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-19 09:35:25: LDAP Account Manager (jcriau40dsif47ghvu3kno3kmu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-19 09:35:25: LDAP Account Manager (jcriau40dsif47ghvu3kno3kmu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-19 09:36:51: LDAP Account Manager (jcriau40dsif47ghvu3kno3kmu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-19 09:52:16: LDAP Account Manager (jcriau40dsif47ghvu3kno3kmu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-19 09:53:13: LDAP Account Manager (jcriau40dsif47ghvu3kno3kmu - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User logged off.
+2023-01-19 09:53:13: LDAP Account Manager (ueiprar32r48oma2l3jb5d3i8c - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-19 09:53:19: LDAP Account Manager (6suib0oqbruh1toea8re4qoggn - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-19 09:53:19: LDAP Account Manager (6suib0oqbruh1toea8re4qoggn - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-19 12:34:06: LDAP Account Manager (6suib0oqbruh1toea8re4qoggn - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-19 12:34:06: LDAP Account Manager (7fdvtu4ftaihemvh98od41f6b6 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-19 12:34:09: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-19 12:34:09: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-19 12:34:12: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=jprdelova,ou=People,dc=ekcr,dc=com
+2023-01-19 12:34:23: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=jprdelova,ou=People,dc=ekcr,dc=com
+2023-01-19 12:37:03: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=jprdelova,ou=People,dc=ekcr,dc=com
+2023-01-19 12:37:51: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=jprdelova,ou=People,dc=ekcr,dc=com
+2023-01-19 12:39:45: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-19 12:40:27: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-19 12:40:48: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-19 12:58:52: LDAP Account Manager (u15itqjqo21hggf511eb77p519 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User logged off.
+2023-01-19 12:58:52: LDAP Account Manager (77b94kbf9tkjd3s6tr2rnnll9n - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-19 12:59:07: LDAP Account Manager (a4ov9sj8i6d3duajlnjlggbetf - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-19 12:59:07: LDAP Account Manager (a4ov9sj8i6d3duajlnjlggbetf - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-19 13:04:29: LDAP Account Manager (a4ov9sj8i6d3duajlnjlggbetf - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User logged off.
+2023-01-19 13:04:29: LDAP Account Manager (42ie2h54akuip6n9o2pc5ue0gq - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-19 13:04:40: LDAP Account Manager (397qigm7ra4ekkv1api7j91rpa - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-19 13:04:40: LDAP Account Manager (397qigm7ra4ekkv1api7j91rpa - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-19 14:41:52: LDAP Account Manager (397qigm7ra4ekkv1api7j91rpa - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-19 14:41:52: LDAP Account Manager (9odmlp0vsfj8k7noo2tsavgedr - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-19 14:41:55: LDAP Account Manager (itn1b4e29g58mrufcd936dufec - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-19 14:41:55: LDAP Account Manager (itn1b4e29g58mrufcd936dufec - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-19 14:42:01: LDAP Account Manager (itn1b4e29g58mrufcd936dufec - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-19 14:42:04: LDAP Account Manager (itn1b4e29g58mrufcd936dufec - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-19 14:42:24: LDAP Account Manager (itn1b4e29g58mrufcd936dufec - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-24 09:22:59: LDAP Account Manager (v25n423c659jn2ihrc314u17oi - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-24 09:23:05: LDAP Account Manager (2pj7t5ackd4ao9u77lvki5hagm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-24 09:23:05: LDAP Account Manager (2pj7t5ackd4ao9u77lvki5hagm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-24 09:23:19: LDAP Account Manager (2pj7t5ackd4ao9u77lvki5hagm - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User logged off.
+2023-01-24 09:23:19: LDAP Account Manager (vbm7sfa93ruihko15uk01ffvpt - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-24 09:31:23: LDAP Account Manager (cq12tukj2tks1g6qfbuqmlavk3 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-24 09:31:25: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-24 09:31:25: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-24 09:38:55: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jan Bémová,ou=People,dc=ekcr,dc=com
+2023-01-24 09:39:00: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+2023-01-24 09:55:39: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-24 09:56:07: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-24 09:59:52: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-24 09:59:57: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+2023-01-24 10:00:12: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit page pre/postModify attributes: Array
+(
+    [objectClass] => Array
+        (
+            [0] => posixAccount
+            [1] => inetOrgPerson
+            [2] => organizationalPerson
+            [3] => person
+        )
+
+    [uid] => Array
+        (
+            [0] => jprdel
+        )
+
+    [uidNumber] => Array
+        (
+            [0] => 10002
+        )
+
+    [gidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [loginShell] => Array
+        (
+            [0] => /bin/bash
+        )
+
+    [cn] => Array
+        (
+            [0] => Jarmil Prdel
+        )
+
+    [homeDirectory] => Array
+        (
+            [0] => /home/jprdel
+        )
+
+    [givenName] => Array
+        (
+            [0] => Jarmil
+        )
+
+    [sn] => Array
+        (
+            [0] => Prdel
+        )
+
+    [initials] => Array
+        (
+            [0] => J. P.
+        )
+
+    [userPassword] => Array
+        (
+            [0] => {SSHA}ii1YQsDdHZ2dFBbNo/DXOJq7peUwbFl0
+        )
+
+    [NEW.userPassword] => Array
+        (
+            [0] => {SSHA}ii1YQsDdHZ2dFBbNo/DXOJq7peUwbFl0
+        )
+
+    [INFO.userPasswordClearText] => Array
+        (
+            [0] => prdel
+        )
+
+    [ORIG.objectClass] => Array
+        (
+            [0] => posixAccount
+            [1] => inetOrgPerson
+            [2] => organizationalPerson
+            [3] => person
+        )
+
+    [ORIG.loginShell] => Array
+        (
+            [0] => /bin/bash
+        )
+
+    [ORIG.homeDirectory] => Array
+        (
+            [0] => /home/jprdel
+        )
+
+    [ORIG.uid] => Array
+        (
+            [0] => jprdel
+        )
+
+    [ORIG.cn] => Array
+        (
+            [0] => Jarmil Prdel
+        )
+
+    [ORIG.uidNumber] => Array
+        (
+            [0] => 10002
+        )
+
+    [ORIG.gidNumber] => Array
+        (
+            [0] => 10001
+        )
+
+    [ORIG.sn] => Array
+        (
+            [0] => Prdel
+        )
+
+    [ORIG.givenName] => Array
+        (
+            [0] => Jarmil
+        )
+
+    [ORIG.initials] => Array
+        (
+            [0] => J. P.
+        )
+
+    [ORIG.structuralObjectClass] => Array
+        (
+            [0] => inetOrgPerson
+        )
+
+    [ORIG.entryUUID] => Array
+        (
+            [0] => f6d7bf54-2ba5-103d-87d8-453a7f00c20e
+        )
+
+    [ORIG.creatorsName] => Array
+        (
+            [0] => cn=admin,dc=ekcr,dc=com
+        )
+
+    [ORIG.createTimestamp] => Array
+        (
+            [0] => 20230118180206Z
+        )
+
+    [ORIG.entryCSN] => Array
+        (
+            [0] => 20230118180206.528256Z#000000#000#000000
+        )
+
+    [ORIG.modifiersName] => Array
+        (
+            [0] => cn=admin,dc=ekcr,dc=com
+        )
+
+    [ORIG.modifyTimestamp] => Array
+        (
+            [0] => 20230118180206Z
+        )
+
+    [ORIG.entryDN] => Array
+        (
+            [0] => cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+        )
+
+    [ORIG.subschemaSubentry] => Array
+        (
+            [0] => cn=Subschema
+        )
+
+    [ORIG.hasSubordinates] => Array
+        (
+            [0] => FALSE
+        )
+
+    [ORIG.dn] => Array
+        (
+            [0] => cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+        )
+
+    [dn] => Array
+        (
+            [0] => cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+        )
+
+)
+
+2023-01-24 10:00:12: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Attribute changes for cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com:
+Array
+(
+    [add] => Array
+        (
+            [userPassword] => Array
+                (
+                    [0] => {SSHA}ii1YQsDdHZ2dFBbNo/DXOJq7peUwbFl0
+                )
+
+        )
+
+    [notchanged] => Array
+        (
+            [objectClass] => Array
+                (
+                    [0] => posixAccount
+                    [1] => inetOrgPerson
+                    [2] => organizationalPerson
+                    [3] => person
+                )
+
+            [uid] => Array
+                (
+                    [0] => jprdel
+                )
+
+            [uidNumber] => Array
+                (
+                    [0] => 10002
+                )
+
+            [gidNumber] => Array
+                (
+                    [0] => 10001
+                )
+
+            [loginShell] => Array
+                (
+                    [0] => /bin/bash
+                )
+
+            [cn] => Array
+                (
+                    [0] => Jarmil Prdel
+                )
+
+            [homeDirectory] => Array
+                (
+                    [0] => /home/jprdel
+                )
+
+            [givenName] => Array
+                (
+                    [0] => Jarmil
+                )
+
+            [sn] => Array
+                (
+                    [0] => Prdel
+                )
+
+            [initials] => Array
+                (
+                    [0] => J. P.
+                )
+
+        )
+
+    [info] => Array
+        (
+            [userPasswordClearText] => Array
+                (
+                    [0] => prdel
+                )
+
+        )
+
+)
+
+2023-01-24 10:00:12: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: Modified DN: cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+2023-01-24 10:00:15: LDAP Account Manager (hk1uf9t89tgbud9hpo5vso5u43 - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User logged off.
+2023-01-24 10:00:15: LDAP Account Manager (pu5bqn41u511hu6m8fujrpr4p2 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-24 10:00:20: LDAP Account Manager (r2edaijrba2c7eqvicb7ob0pvo - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-24 10:00:20: LDAP Account Manager (r2edaijrba2c7eqvicb7ob0pvo - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-24 10:03:55: LDAP Account Manager (r2edaijrba2c7eqvicb7ob0pvo - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Edit account cn=Jarmil Prdel,ou=People,dc=ekcr,dc=com
+2023-01-24 10:50:04: LDAP Account Manager (r2edaijrba2c7eqvicb7ob0pvo - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-24 10:50:04: LDAP Account Manager (kltrfo1k19h4fst027gcsjnavh - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-24 10:50:24: LDAP Account Manager (5jnlfj7gcd8ic6mlmcudvinjds - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-24 10:50:24: LDAP Account Manager (5jnlfj7gcd8ic6mlmcudvinjds - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-24 10:50:29: LDAP Account Manager (5jnlfj7gcd8ic6mlmcudvinjds - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-24 15:11:57: LDAP Account Manager (5jnlfj7gcd8ic6mlmcudvinjds - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-24 15:11:57: LDAP Account Manager (s3odp8vo3kh6cndquts1iqbc01 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-24 15:12:02: LDAP Account Manager (qdkv79i2ejbppjqv2gmrlsr8sv - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-24 15:12:02: LDAP Account Manager (qdkv79i2ejbppjqv2gmrlsr8sv - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-24 15:13:13: LDAP Account Manager (qdkv79i2ejbppjqv2gmrlsr8sv - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-24 15:17:07: LDAP Account Manager (qdkv79i2ejbppjqv2gmrlsr8sv - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type group
+2023-01-24 15:53:03: LDAP Account Manager (qdkv79i2ejbppjqv2gmrlsr8sv - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-24 15:53:03: LDAP Account Manager (ohg3keb7j20gr4rteuusklp0kk - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-24 15:53:07: LDAP Account Manager (u6ektg41s170vpahj52k3p2mbc - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-24 15:53:07: LDAP Account Manager (u6ektg41s170vpahj52k3p2mbc - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-01-24 15:53:08: LDAP Account Manager (u6ektg41s170vpahj52k3p2mbc - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: New account with type user
+2023-01-25 06:23:48: LDAP Account Manager (u6ektg41s170vpahj52k3p2mbc - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - WARNING: Session of user cn=admin,dc=ekcr,dc=com expired.
+2023-01-25 06:23:48: LDAP Account Manager (nc1s6a58lircj6p4q6sb35qlov - 127.0.0.1 - ) - DEBUG: Display login page
+2023-01-25 06:23:53: LDAP Account Manager (9fo43qqbj3qnvtt5fnmjgjls0o - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - NOTICE: User cn=admin,dc=ekcr,dc=com (127.0.0.1) successfully logged in.
+2023-01-25 06:23:53: LDAP Account Manager (9fo43qqbj3qnvtt5fnmjgjls0o - 127.0.0.1 - cn=admin,dc=ekcr,dc=com) - DEBUG: Expired password check: Reading cn=admin,dc=ekcr,dc=com with return code 32 and data: 
+2023-02-28 15:43:52: LDAP Account Manager (f6cnak7q518j7rcag5g16ijf50 - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:43:57: LDAP Account Manager (t29r69hodgueijeo3mqq9sn04m - ::1 - cn=admin,dc=ekcr,dc=cz) - ERROR: User cn=admin,dc=ekcr,dc=cz (::1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-02-28 15:43:57: LDAP Account Manager (t29r69hodgueijeo3mqq9sn04m - ::1 - cn=admin,dc=ekcr,dc=cz) - DEBUG: Display login page
+2023-02-28 15:44:25: LDAP Account Manager (kj40mm7h60h4j1rdnnikuaqg1h - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:44:27: LDAP Account Manager (ah0jadtudd62hhnc33lqpuh43c - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:44:41: LDAP Account Manager (1uegu78c9fu6hhoe9us4uoqji6 - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:44:49: LDAP Account Manager (4kp9816ogt96188t8f423va6i0 - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:12: LDAP Account Manager (umrs7htv0c2m77933rlfb18h9t - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:13: LDAP Account Manager (22hrrhrc9e7p8shoskqvrrg3li - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:13: LDAP Account Manager (pohdnicrju0kgmet2d07rmk11r - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:13: LDAP Account Manager (p411hj1qsh05neeip330l0cesu - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:13: LDAP Account Manager (89r4li8lb1r8u676l7rnrfje1m - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:14: LDAP Account Manager (ofr10hjcap7ng7kpcg86ja346b - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:14: LDAP Account Manager (ipfdbgtool1mqvesajks67vm4g - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:14: LDAP Account Manager (3rv1ts7o94g6l6dmas0l91gm4l - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:14: LDAP Account Manager (d8e18ni74070e7fma6ojpkvjpo - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:14: LDAP Account Manager (dl0urkn5iqpatlauk2d0q84mot - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:14: LDAP Account Manager (n3jrivstobu903f48tud6ofb4f - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:15: LDAP Account Manager (bonrvq2jclp7tdnstv50h5s3ss - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:15: LDAP Account Manager (7r0amq9eo9vf60s130bevurrh7 - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:15: LDAP Account Manager (1pql706a6cisbumq27g9867cip - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:15: LDAP Account Manager (0i82i4iabr4aguqmkdcms9t1gp - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:15: LDAP Account Manager (01auq8c5gi7gomru87i039ae1d - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:15: LDAP Account Manager (qsspi7rd87prhfd8gqa19oufkp - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:16: LDAP Account Manager (cepsb92sp2obk6ka0benjt0hns - ::1 - ) - DEBUG: Display login page
+2023-02-28 15:45:27: LDAP Account Manager (u7khitc963260beccpk4vqnrec - ::1 - ) - DEBUG: Display login page
+2023-02-28 16:09:47: LDAP Account Manager (rg05p68f7l4pm9j354or9do7vh - ::1 - ) - DEBUG: Display login page
+2023-04-11 13:47:34: LDAP Account Manager (6fkh3s13kll149vbaudc1orfck - ::1 - ) - DEBUG: Display login page
+2023-04-24 13:03:50: LDAP Account Manager (9q7qne9mtfmi9rom95p74t7eed - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:05:24: LDAP Account Manager (78achud6itdov37r6rd9dib9cn - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:05:38: LDAP Account Manager (e85usbl95ii9j16vob34q7nu42 - 127.0.0.1 - cn=admin,dc=ekcr,dc=cz) - ERROR: User cn=admin,dc=ekcr,dc=cz (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-04-24 13:05:38: LDAP Account Manager (e85usbl95ii9j16vob34q7nu42 - 127.0.0.1 - cn=admin,dc=ekcr,dc=cz) - DEBUG: Display login page
+2023-04-24 13:05:44: LDAP Account Manager (20v5l5mg80s397sr4d5pup345l - 127.0.0.1 - cn=admin,dc=ekcr,dc=cz) - ERROR: User cn=admin,dc=ekcr,dc=cz (127.0.0.1) failed to log in (wrong password). LDAP error, server says: Invalid credentials
+2023-04-24 13:05:44: LDAP Account Manager (20v5l5mg80s397sr4d5pup345l - 127.0.0.1 - cn=admin,dc=ekcr,dc=cz) - DEBUG: Display login page
+2023-04-24 13:06:24: LDAP Account Manager (r5elhsnehqlns2seao9ktjje0j - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:13:48: LDAP Account Manager (anigd4ffpsiu8p7m9os9584guc - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:22:14: LDAP Account Manager (fqqlt3g52taf21ivnmioubbs3p - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:29:18: LDAP Account Manager (8de1vv286ol1t60mhhacthkmdq - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:02: LDAP Account Manager (urgctmbftl9b2c1vm94pa44pb1 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:25: LDAP Account Manager (um4lebb7qmcqdnmg2ii1mve7bd - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:26: LDAP Account Manager (frkna8uai4j3r3o5bp1qvm82j9 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:26: LDAP Account Manager (v7sharvitbt05gl96mdhap3rvp - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:27: LDAP Account Manager (8uc2d80hc7f4ncc5rhuuihor4i - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:27: LDAP Account Manager (ttdnbut601jcs8729cfqba5hma - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:27: LDAP Account Manager (is0lc24kcbvhdbdu8e5hdvmp8r - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:27: LDAP Account Manager (ib0afjh9t4eulkpta2nr1pd699 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:28: LDAP Account Manager (tdqab2npc7cidif5mo8fagosom - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:28: LDAP Account Manager (4n7ahjlckc1e2alc4rj90vj0oh - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:28: LDAP Account Manager (1lru1qonc1pm4ootjm0eqtto3f - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:28: LDAP Account Manager (gn1hfpbklbgjd9eh26e4h2eu00 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:28: LDAP Account Manager (pi3qm89bhktrjvsp3atuc518hd - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:28: LDAP Account Manager (v1c7hailaprodl2u70q1i5dksv - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:29: LDAP Account Manager (rncuj4mvj0nglom8rt4ufq6g63 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:29: LDAP Account Manager (3trc7pvld7t15td9kes0snt4dv - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:29: LDAP Account Manager (ints28d48rsunfscnbpfrhiudp - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:29: LDAP Account Manager (ruusd2mp5km9mrto0iihni3qfh - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:29: LDAP Account Manager (3kkkmd7pfngutfdd2q1em90rp8 - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:29: LDAP Account Manager (upjjbpf0iansotv3p4vkgmudis - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:30: LDAP Account Manager (7pm3d4rrc6jns136s5tqp714jv - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:30:36: LDAP Account Manager (eoe8gg9mhgqts71amo1b2i2n2b - 127.0.0.1 - ) - DEBUG: Display login page
+2023-04-24 13:35:22: LDAP Account Manager (sh295tlpdn5plp92mb6vf1ko7u - 127.0.0.1 - ) - DEBUG: Display login page

@@ -1,0 +1,4 @@
+dn: olcDatabase={1}mdb,cn=config
+changeType: modify
+add: olcAccess
+olcAccess: {0}to * by self write by * none

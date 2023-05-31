@@ -1,0 +1,4 @@
+dn: uid=jdolezal,ou=People,dc=ekcr,dc=cz
+changetype: modify
+add: mail
+mail: jdolezal@ekcr.cz

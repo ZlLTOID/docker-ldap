@@ -1,0 +1,18 @@
+dn: uid=phorak,ou=People,dc=ekcr,dc=cz
+objectClass: top
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: Paul Horák
+sn: Horák
+uid: paul
+uidNumber: 16879
+gidNumber: 1001
+homeDirectory: /home/phorak
+loginShell: /bin/bash
+gecos: paul
+userPassword: {crypt}x
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0
+
